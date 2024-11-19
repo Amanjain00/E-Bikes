@@ -1,4 +1,4 @@
-# E-Bikes Lightning Web Components Sample Application
+# E-Bikes Lightning Web Components Application
 
 [![CI](https://github.com/trailheadapps/ebikes-lwc/actions/workflows/ci.yml/badge.svg)](https://github.com/trailheadapps/ebikes-lwc/actions/workflows/ci.yml) [![codecov](https://codecov.io/gh/trailheadapps/ebikes-lwc/branch/main/graph/badge.svg)](https://codecov.io/gh/trailheadapps/ebikes-lwc)
 
